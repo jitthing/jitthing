@@ -17,7 +17,8 @@
 
 <h3 align="left">Programming Languages:</h3>
 <p align="left">
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash&perline=3)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash)](https://skillicons.dev) -->
 </p>
 
 <h3 align="left">Frontend Frameworks:</h3>
