@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jitt Hing</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer;SMU+IS+%26+AI)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitthing&label=Profile%20views&color=0e75b6&style=flat" alt="jitthing" /> </p>
 
@@ -18,7 +18,7 @@
 
 <h3 align="left">Programming Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash)](https://skillicons.dev) -->
 
 <h3 align="left">Frontend Frameworks:</h3>
