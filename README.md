@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jitt Hing</h1>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Aspiring+Software+Engineer)](https://git.io/typing-svg)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitthing&label=Profile%20views&color=0e75b6&style=flat" alt="jitthing" /> </p>
@@ -16,22 +17,28 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash&perline=3)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash)](https://skillicons.dev) -->
 
 <h3 align="left">Frontend Frameworks:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind)](https://skillicons.dev)
 
 <h3 align="left">Backend Frameworks:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,express,spring,nodejs)](https://skillicons.dev)
 
 <h3 align="left">Databases:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase)](https://skillicons.dev)
 
 <h3 align="left">Cloud and Containers:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
 
 <h3 align="left">Other Skills:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=git,rabbitmq,figma)](https://skillicons.dev)
 
 
