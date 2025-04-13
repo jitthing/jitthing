@@ -16,35 +16,23 @@
 </p>
 
 <h3 align="left">Programming Languages:</h3>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash&perline=3)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=js,ts,py,go,java,php,bash)](https://skillicons.dev) -->
-</p>
 
 <h3 align="left">Frontend Frameworks:</h3>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,bootstrap,tailwind)](https://skillicons.dev)
-</p>
 
 <h3 align="left">Backend Frameworks:</h3>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,express,spring,nodejs)](https://skillicons.dev)
-</p>
 
 <h3 align="left">Databases:</h3>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase)](https://skillicons.dev)
-</p>
 
 <h3 align="left">Cloud and Containers:</h3>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
-</p>
 
 <h3 align="left">Other Skills:</h3>
-<p align="left">
 [![My Skills](https://skillicons.dev/icons?i=git,rabbitmq,figma)](https://skillicons.dev)
-</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitthing&show_icons=true&locale=en&layout=compact" alt="jitthing" /></p>
