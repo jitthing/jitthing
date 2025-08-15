@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitthing&label=Profile%20views&color=0e75b6&style=flat" alt="jitthing" /> </p>
 
-- 🌱 I’m currently learning **Langchain and Agentic Workflows**
+- 🌱 I’m currently learning **Terraform and Kubernetes**
 
 - 💬 Ask me about **anything!**
 
