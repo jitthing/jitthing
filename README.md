@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitthing&label=Profile%20views&color=0e75b6&style=flat" alt="jitthing" /> </p>
 
-- 🌱 I’m currently learning **Terraform and Kubernetes**
+- 🌱 I’m currently learning **Agentic AI✨**
 
 - 💬 Ask me about **anything!**
 
@@ -35,11 +35,11 @@
 
 <h3 align="left">Cloud and Containers:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform)](https://skillicons.dev)
 
 <h3 align="left">Other Skills:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=git,rabbitmq,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,linux,rabbitmq,figma)](https://skillicons.dev)
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jitthing&show_icons=true&locale=en&layout=compact" alt="jitthing" /></p>
