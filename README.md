@@ -31,7 +31,7 @@
 
 <h3 align="left">Databases:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,elasticsearch)](https://skillicons.dev)
 
 <h3 align="left">Cloud and Containers:</h3>
 
